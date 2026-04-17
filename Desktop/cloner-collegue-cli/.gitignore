@@ -1,0 +1,6 @@
+node_modules/
+colleagues/
+!colleagues/.gitkeep
+.env
+.DS_Store
+*.log
